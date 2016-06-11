@@ -1,1 +1,3 @@
 i need to initialize repo so we can start tracking changes
+
+staging offers a pre-commit status for your repo
