@@ -1,0 +1,14 @@
+it was quick to spot changes
+very user friendly
+
+history is good for me
+
+manual commit for gits is great
+
+multiple-file commits helps in tracking changes
+
+git log shows the changes made. git diff shows exactly which line changed
+
+with git, i am now fearless
+
+i am gonna try git to develop my own app
