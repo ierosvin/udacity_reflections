@@ -1,1 +1,3 @@
 it is good to create a github repo than in local so others can pull your codes
+
+pulling manually gives you greater control over your local copy
