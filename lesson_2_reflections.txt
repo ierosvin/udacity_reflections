@@ -1,3 +1,13 @@
 i need to initialize repo so we can start tracking changes
 
 staging offers a pre-commit status for your repo
+
+use staging area to select which files are part of one logical change
+
+branches is helpful in cases where in you want to test a new feature
+
+log diagrams is very helpful!
+
+merging two branches together is easy to read because of graph
+
+auto merge makes the merging a lot faster
