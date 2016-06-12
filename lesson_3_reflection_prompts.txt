@@ -1,3 +1,7 @@
 it is good to create a github repo than in local so others can pull your codes
 
 pulling manually gives you greater control over your local copy
+
+fork: to get a complete copy of another's repo
+clone: to get a repo copy into your local
+branch: if you want to test a new feature or fix a bug
