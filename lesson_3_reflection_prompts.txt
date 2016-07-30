@@ -11,3 +11,7 @@ copy of last known state stored locally is a good idea
 pull request is a good way to share code changes in a project especially
 when a number of developers are working on the same project. i think this is
 the better way to collaborate on a project than the svn-way.
+
+when to use separate branch? i think, when introducing new idea to your master and would 
+like to discuss it first with codevelopers, do it in branch as a pull request. then later on
+merge this branch to your master.
