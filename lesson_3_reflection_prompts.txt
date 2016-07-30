@@ -7,3 +7,7 @@ clone: to get a repo copy into your local
 branch: if you want to test a new feature or fix a bug
 
 copy of last known state stored locally is a good idea
+
+pull request is a good way to share code changes in a project especially
+when a number of developers are working on the same project. i think this is
+the better way to collaborate on a project than the svn-way.
