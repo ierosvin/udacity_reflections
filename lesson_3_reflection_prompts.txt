@@ -5,3 +5,5 @@ pulling manually gives you greater control over your local copy
 fork: to get a complete copy of another's repo
 clone: to get a repo copy into your local
 branch: if you want to test a new feature or fix a bug
+
+copy of last known state stored locally is a good idea
